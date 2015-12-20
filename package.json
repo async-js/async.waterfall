@@ -10,7 +10,7 @@
   "version": "0.4.2",
   "license": "MIT",
   "dependencies": {
-    "async.iterator": "0.4.2",
+    "async.iterator": "0.4.3",
     "async.util.ensureasync": "0.4.2",
     "async.util.isarray": "0.4.2",
     "async.util.noop": "0.4.2",
