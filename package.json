@@ -13,7 +13,7 @@
     "async.iterator": "0.5.0",
     "async.util.ensureasync": "0.5.0",
     "async.util.isarray": "0.5.0",
-    "async.util.noop": "0.5.0",
+    "async.util.noop": "0.5.1",
     "async.util.once": "0.5.0",
     "async.util.restparam": "0.5.0"
   },
